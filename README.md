@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Samhitha!
 
-<!--
-**samhithabandiii/samhithabandiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Administration student at Northeastern University, concentrating in Finance.
 
-Here are some ideas to get you started:
+## About Me
+- **Name:** Samhitha Bandi
+- **University:** Northeastern University
+- **Major:** Business Administration (Finance Concentration)
+- **Expected Graduation:** May 2030
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Finance and business
+- Philosophy and law
+- Technology and professional development
